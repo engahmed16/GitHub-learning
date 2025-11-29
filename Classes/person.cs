@@ -1,0 +1,1 @@
+public Record (string Name, dateOnly birthDate, string phoneNumber)
